@@ -4,7 +4,6 @@ FN;CHARSET=UTF-8:Igor Brdaric
 N;CHARSET=UTF-8:Brdaric;Igor;;;
 EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:igor.brdaric@ligabue.it
 TEL;TYPE=WORK,VOICE:+966 558 166 605
-TEL;TYPE=WORK,VOICE:+971 585 376 007
 LABEL;CHARSET=UTF-8;TYPE=WORK:Al Saadoun Tower\, 4th Floor
 ADR;CHARSET=UTF-8;TYPE=WORK:;;Khaled Bin Waleed St;;Dammam / Ar Rakah;31814;Saudi Arabia
 TITLE;CHARSET=UTF-8:Regional Executive Director Gulf Area
@@ -12,4 +11,5 @@ ORG;CHARSET=UTF-8:Ligabue Saudi Arabia Ltd.
 URL;type=WORK;CHARSET=UTF-8:https://ligabue.it/
 REV:2025-05-06T14:29:50.845Z
 END:VCARD
+
 
